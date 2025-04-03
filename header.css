@@ -4,10 +4,28 @@ header{
     width: 100%;
 }
 nav{
+    button{
+        cursor: pointer;
+    }
+    font-family: "Rubik", sans-serif;
     h1{
-        font-family: "Rubik", sans-serif;
+        
         font-size: 2rem;
         font-weight: 600;
     }
-    
+    .center_buttons{
+        font-size: 1.1rem;
+        font-weight: 400;
+    }
+    .login_signup{
+     button:first-of-type{
+        color: green;
+     }
+     button:nth-of-type(2){
+        padding: 0.5rem 1rem;
+        border-radius: 0.25rem;
+        background-color: green;
+        color: white;
+     }
+    }
 }
