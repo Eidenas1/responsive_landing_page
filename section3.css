@@ -11,3 +11,33 @@
     color: rgb(99, 99, 99);
     font-size: 16px;
 }
+.container-manage {
+    display: flex;
+    justify-content: center;
+
+    gap: 100px;
+    padding-top: 30px;
+    
+}
+.container-manage h2 {
+    font-size: 28px;
+    font-weight: 500;
+}
+.container-manage p {
+    font-size: 14px;
+}
+.container-manage .div-box {
+    padding: 10px;
+    width: 270px;
+    height: 270px;
+    border-radius: 8px;
+    box-shadow: 0.5px 0.5px 4px gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.container-manage img {
+    width: 40px;
+    
+}
