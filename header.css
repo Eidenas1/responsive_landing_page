@@ -2,5 +2,12 @@ header{
     display: flex;
     height: 5%;
     width: 100%;
+}
+nav{
+    h1{
+        font-family: "Rubik", sans-serif;
+        font-size: 2rem;
+        font-weight: 600;
+    }
     
 }
