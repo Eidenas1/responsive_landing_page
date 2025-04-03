@@ -1,0 +1,13 @@
+.section-3 {
+    text-align: center;
+}
+.section-3 h1 {
+    font-size: 36px;
+    font-weight: 500;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.section-3 p {
+    color: rgb(99, 99, 99);
+    font-size: 16px;
+}
