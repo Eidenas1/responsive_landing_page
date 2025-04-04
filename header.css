@@ -2,6 +2,7 @@ header{
     display: flex;
     height: 5%;
     width: 100%;
+    background-color: #f5f7fa;
 }
 nav{
     button{
