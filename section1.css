@@ -17,10 +17,18 @@
     }
     p{
         padding: 0.5rem 0;
+        margin-bottom: 1rem;
         opacity: 0.5;
     }
     img{
         max-width: 100%;
-        
     }
+    button{
+        padding: 0.75rem 0.75rem;
+        border-radius: 0.25rem;
+        background-color: #4caf4f;
+        color: white;
+        width: 8rem;
+        text-align: center;
+     }
 }
